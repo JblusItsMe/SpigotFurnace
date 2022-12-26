@@ -1,0 +1,7 @@
+name: SpigotFurnace
+author: JblusItsMe
+version: 1.0.0
+main: fr.jblusitsme.furnace.Main
+commands:
+  furnace:
+    description: Furnace commands.
